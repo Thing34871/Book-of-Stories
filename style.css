@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+a {
+  color: deepskyblue;
+  font-size: xx-large;
+}
+p {
+  text-align: center;
+}
+img {
+  width: 330px;
+  height: 400px;
+}
+button {
+  background-color: deepskyblue;
+  font-size: xx-large;
+  border-color: aqua;
+  color: black;
+  display: inline-block;
+  padding: 5px;
+  border-radius: 20px;
+  width: 250px;
+}
+div {
+  color: black;
+  width: 45%;
+  border-color: black;
+  background-color: black;
+  text-align: center;
+}
